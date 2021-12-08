@@ -1,0 +1,38 @@
+<movies>
+	<movies>
+		<code>0001</code>
+		<name>듄</name>
+		<director>드니 빌뇌브</director>
+		<borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+		<isBorrowed>0</isBorrowed>
+		<userId>0</userId>
+		<userName></userName>
+	</movies>
+	<movies>
+		<code>0002</code>
+		<name>보이스</name>
+		<director>김선</director>
+		<borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+		<isBorrowed>0</isBorrowed>
+		<userId>0</userId>
+		<userName></userName>
+	</movies>
+	<movies>
+		<code>0003</code>
+		<name>기적</name>
+		<director>이장훈</director>
+		<borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+		<isBorrowed>0</isBorrowed>
+		<userId>0</userId>
+		<userName></userName>
+	</movies>
+	<movies>
+		<code>0004</code>
+		<name>베놈</name>
+		<director>루벤 플레셔</director>
+		<borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+		<isBorrowed>0</isBorrowed>
+		<userId>0</userId>
+		<userName></userName>
+	</movies>
+</movies>
